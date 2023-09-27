@@ -1,0 +1,352 @@
+{
+  "menu": [
+    {
+      "category": "Dessert",
+      "items": [
+        {
+          "item_name": "Balosahi",
+          "description": "250 gm",
+          "price": 140
+        },
+        {
+          "item_name": "Emrati",
+          "description": "250 gm",
+          "price": 140
+        },
+        {
+          "item_name": "Deshi ghee ka halwa",
+          "description": "250 gm",
+          "price": 140
+        }
+      ]
+    },
+    {
+      "category": "Paneer Dishes",
+      "items": [
+        {
+          "item_name": "Shahi paneer Full Plate",
+          "price": 150
+        },
+        {
+          "item_name": "Chilli paneer dry Full Plate",
+          "price": 160
+        },
+        {
+          "item_name": "Paneer do pyaja Full Plate",
+          "price": 150
+        },
+        {
+          "item_name": "Paneer butter masala Full Plate",
+          "price": 160
+        },
+        {
+          "item_name": "Kadhai paneer Full Plate",
+          "price": 160
+        },
+        {
+          "item_name": "Handi paneer Full Plate",
+          "price": 160
+        },
+        {
+          "item_name": "Mutter Paneer Full Plate",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "category": "Meals Plates",
+      "items": [
+        {
+          "item_name": "Veg Mini Thali",
+          "description": "Roti: 4 with Butter, Seasonal Veg (100 gm), Jeera Rice (150 gm), Dal fry, Salad (50 gm), Bundi Raiyta (100 gm)",
+          "price": 140
+        },
+        {
+          "item_name": "Jain Special Thali",
+          "description": "Roti: 4 with Butter, 1 Butter Paratha, Seasonal Veg without-onion and garlic (100 gm), Masaledar Paneer without-onion and garlic (100 gm), pulaw (150 gm), Dal Tadka (Ghee/Butter), Salad (50 gm), Bundi Raiyta (100 gm), Sweet 1 PC",
+          "price": 170
+        },
+        {
+          "item_name": "Veg Maharaja Thali",
+          "description": "Roti: 4 with Butter, 1 Butter Paratha, Seasonal Veg (100 gm), Masaledar Paneer (100 gm), pulaw (150 gm), Dal Tadka (Ghee/Butter), Salad (50 gm), Bundi Raiyta (100 gm), Sweet 1 PC",
+          "price": 170
+        },
+        {
+          "item_name": "jain mini thali",
+          "description": "Roti: 4 with Butter, Seasonal Veg without-onion and garlic (100 gm), Jeera Rice (150 gm), Dal fry, Salad (50 gm), Bundi Raiyta (100 gm)",
+          "price": 140
+        },
+        {
+          "item_name": "Dulex Thali",
+          "description": "Roti: 4 with Butter, Seasonal Veg (100 gm), Paneer do pyaja (100 gm), pulaw (150 gm), Dal Fry, Salad (50 gm), Bundi Raiyta (100 gm)",
+          "price": 160
+        }
+      ]
+    },
+    {
+      "category": "Combo",
+      "items": [
+        {
+          "item_name": "Veg Pulao and Raita + Chutney 250 gm Plate",
+          "description": "Veg Pulao, Bundi Raiyta (100 gm)",
+          "price": 120
+        },
+        {
+          "item_name": "Veg Biryani and Raita + Chutney 250 gm Plate",
+          "description": "Veg Biryani, Bundi Raiyta (100 gm)",
+          "price": 120
+        },
+        {
+          "item_name": "Paneer veg and roti Half Plate",
+          "description": "Paneer ki Sabji + 4 Roti with Butter",
+          "price": 120
+        },
+        {
+          "item_name": "Paneer veg and rice Half Plate",
+          "description": "Paneer ki Sabji + Geera Rice (250 gm)",
+          "price": 120
+        },
+        {
+          "item_name": "Paneer Butter mashala + Roti Half Plate",
+          "description": "Paneer Butter mashala + 4 Roti with Butter",
+          "price": 140
+        },
+        {
+          "item_name": "Mutter Paneer + Roti Half Plate",
+          "description": "Mutter Paneer + 4 Roti with Butter",
+          "price": 130
+        },
+        {
+          "item_name": "Mix veg and roti combo Half Plate",
+          "description": "Survedaar Sabjee + 4 Roti with Butter",
+          "price": 100
+        },
+        {
+          "item_name": "Dal and Rice",
+          "description": "Geera Rice (250 gm) + Dal fry (Half Plate)",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "category": "Paratha",
+      "items": [
+        {
+          "item_name": "Aloo paratha with Curd 2 PC",
+          "description": "Aloo Paratha + Curd 80 gm",
+          "price": 100
+        },
+        {
+          "item_name": "Aloo paratha with Chola 2 PC",
+          "description": "Aloo Paratha + Chola half plate",
+          "price": 120
+        },
+        {
+          "item_name": "Pyaj ka Paratha with Curd 2 PC",
+          "description": "Pyaj ka Paratha + Curd 80 gm",
+          "price": 100
+        },
+        {
+          "item_name": "Shatu Paratha with Curd 2 PC",
+          "description": "Shatu ka Paratha + Curd 80 gm",
+          "price": 100
+        },
+        {
+          "item_name": "Shatu Paratha with Chokha + Chut 2 PC",
+          "description": "Shatu ka Paratha + (Chokha 100 gm)",
+          "price": 120
+        },
+        {
+          "item_name": "Plane paratha with Curd 2 PC",
+          "description": "Plane Paratha + Curd 80 gm",
+          "price": 80
+        },
+        {
+          "item_name": "Plane paratha with Chola 2 PC",
+          "description": "Plane Paratha + Chola half plate",
+          "price": 100
+        },
+        {
+          "item_name": "Paneer Paratha with Curd 2 PC",
+          "description": "Paneer Paratha + Curd 80 gm",
+          "price": 130
+        },
+        {
+          "item_name": "Paneer Paratha with Chola 2 PC",
+          "description": "Paneer Paratha + Chola half plate",
+          "price": 150
+        },
+        {
+          "item_name": "Paneer Masala Paratha with Curd 2 PC",
+          "description": "Paneer Masala Paratha + Curd 80 gm",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "category": "Rice /Biryani",
+      "items": [
+        {
+          "item_name": "Jeera Rice 250 gm",
+          "price": 90
+        },
+        {
+          "item_name": "Plane Rice 250 gm",
+          "price": 80
+        },
+        {
+          "item_name": "Paneer Biryani 250 gm",
+          "price": 130
+        },
+        {
+          "item_name": "Mashrum Biryani 250 gm",
+          "price": 130
+        },
+        {
+          "item_name": "Veg Biryani 250 gm",
+          "price": 115
+        },
+        {
+          "item_name": "Veg Pulao 250 gm",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "category": "Dal Type",
+      "items": [
+        {
+          "item_name": "Dal Tadka Full plate",
+          "price": 90
+        },
+        {
+          "item_name": "Dal Fry Full plate",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "category": "Sukhi (dry) Sabji",
+      "items": [
+        {
+          "item_name": "Secesonal Veg Full plate",
+          "price": 80
+        },
+        {
+          "item_name": "Jeera Aalo Full plate",
+          "price": 80
+        }
+      ]
+    },
+    {
+      "category": "Survedar (Gravy) Sabji",
+      "items": [
+        {
+          "item_name": "Mashroom Masala Full plate",
+          "price": 130
+        },
+        {
+          "item_name": "Chana Masala Full plate",
+          "price": 120
+        },
+        {
+          "item_name": "Secesonal Veg masala Full plate",
+          "price": 110
+        },
+        {
+          "item_name": "Aalu Tamater Subji Full plate",
+          "price": 80
+        },
+        {
+          "item_name": "Aalu matter Gobhi Subji Full plate",
+          "price": 100
+        },
+        {
+          "item_name": "Aalu matter Subji Full plate",
+          "price": 100
+        }
+      ]
+    },
+    {
+      "category": "Roti",
+      "items": [
+        {
+          "item_name": "Tawa Plain Roti 1 PC",
+          "price": 10
+        },
+        {
+          "item_name": "Tawa Butter Roti 1 PC",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "category": "Nasta (Breakfast)",
+      "items": [
+        {
+          "item_name": "Dal Khichadi Full plate",
+          "price": 100
+        },
+        {
+          "item_name": "Paneer Maggi Full plate",
+          "price": 140
+        },
+        {
+          "item_name": "Puri Sabji",
+          "description": "6 Puri + Half Plate Veg",
+          "price": 120
+        },
+        {
+          "item_name": "Puri Chola",
+          "description": "6 Puri + Half Plate Chola",
+          "price": 130
+        },
+        {
+          "item_name": "Mix Pakoda 250 gm",
+          "price": 100
+        },
+        {
+          "item_name": "Poha 250 gm",
+          "price": 100
+        },
+        {
+          "item_name": "Masala Maggi Full plate",
+          "price": 100
+        },
+        {
+          "item_name": "Plain Maggie Full plate",
+          "price": 80
+        },
+        {
+          "item_name": "Paneer Pakoda 250 gm",
+          "price": 140
+        },
+        {
+          "item_name": "Bati Chokha",
+          "description": "4 Bati + Half Plate Chokha",
+          "price": 100
+        },
+        {
+          "item_name": "Masala Daliya Full plate",
+          "price": 100
+        },
+        {
+          "item_name": "Milk Daliya Full plate",
+          "price": 100
+        },
+        {
+          "item_name": "Pyaj pakoda 250 gm",
+          "price": 100
+        },
+        {
+          "item_name": "Masala Oats Full plate",
+          "price": 100
+        },
+        {
+          "item_name": "Green salad Full plate",
+          "price": 50
+        }
+      ]
+    }
+  ]
+}
